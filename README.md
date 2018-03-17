@@ -2,7 +2,12 @@
 
 ## Firing up the app
 
-To run the app use your CLI in the root of the project folder and install required npm modules
+To run the app clone this repository
+```
+git@github.com:leflonen/react-hackernews.git
+```
+
+Then use your CLI in the root of the project folder and install required npm modules
 ```
 npm install
 ```
